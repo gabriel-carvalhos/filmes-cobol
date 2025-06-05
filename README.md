@@ -1,5 +1,7 @@
 # Filmes COBOL 🎬
 
+https://github.com/user-attachments/assets/f61489b1-f718-4b3f-8f09-8a5eda56e9a3
+
 Este é um sistema de gerenciamento de filmes desenvolvido em **COBOL**, com interface estruturada em tela.
 
 O projeto foi realizado ao final do bootcamp de COBOL da **Código de Base**, com orientação do instrutor Ivan.
